@@ -19,7 +19,10 @@ export default class DeviceStore {
         {id: 2, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
         {id: 3, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
         {id: 4, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
-        {id: 5, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'}
+        {id: 5, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
+        {id: 6, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
+        {id: 7, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'},
+        {id: 8, name: 'Iphone 12 Pro', price: '109000', rating: '5', img: 'https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-12-pro-silver.png?v=11'}
        ]
        this._selectedType = {}
        this._selectedBrand = {}
